@@ -1,0 +1,4 @@
+Pink Floyd;Dogs;5.20;2000
+Beatles;White;4.30;100000
+Pink Floyd;Cat;4.04;300000
+Pink Floyd;Mouse;3.02;89999
